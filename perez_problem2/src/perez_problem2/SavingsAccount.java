@@ -23,12 +23,5 @@ public class SavingsAccount {
 	public void setSavingsBalance(double savingsBalance) {
 		this.savingsBalance = savingsBalance;
 	}
-	/*
-	public double getAnnualInterestRate() {
-		return annualInterestRate;
-	}
-	public void setAnnualInterestRate(double annualInterestRate) {
-		this.annualInterestRate = annualInterestRate;
-	}
-	*/
+	
 }

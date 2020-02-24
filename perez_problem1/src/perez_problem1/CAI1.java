@@ -9,7 +9,6 @@ public class CAI1 {
 		Scanner input = new Scanner(System.in);
 		// generate random numbers with SecureRandomm object
 		SecureRandom secureRandomGenerator = SecureRandom.getInstance("SHA1PRNG", "SUN");
-		// Ask to enter difficulty level of 1, 2, 3, or 4
 		
 
 		
